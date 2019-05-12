@@ -62,7 +62,7 @@ typings/
 
 # others
 *.png
-*.jpg
+# *.jpg
 .vscode/
 build/
 apiary.apib
